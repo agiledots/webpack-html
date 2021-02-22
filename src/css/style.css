@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+@import 'ress.min.css';
+
+body {
+    border: 1px solid blue;
+    color:#000;
+    background-color: #eee;
+}
